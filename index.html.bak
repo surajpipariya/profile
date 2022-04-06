@@ -44,7 +44,7 @@
       <header id="site_header" class="header mobile-menu-hide">
         <div class="header-content">
           <div class="site-title-block mobile-hidden">
-            <div class="site-title">Alex <span>Smith</span></div>
+            <div class="site-title">Suraj <span>Pipariya</span></div>
           </div>
 
           <!-- Navigation -->
@@ -80,7 +80,7 @@
       <!-- Mobile Header -->
       <div class="mobile-header mobile-visible">
         <div class="mobile-logo-container">
-          <div class="mobile-site-title">Alex Smith</div>
+          <div class="mobile-site-title">Suraj Pipariya</div>
         </div>
 
         <a class="menu-toggle mobile-visible">
@@ -109,7 +109,7 @@
 
                     <div class="col-sm-8 col-md-8 col-lg-8">
                       <div class="title-block">
-                        <h1>Alex Smith</h1>
+                        <h1>Suraj Pipariya</h1>
                         <div class="owl-carousel text-rotation">                                    
                           <div class="item">
                             <div class="sp-subtitle">Web Designer</div>
@@ -137,7 +137,7 @@
                         <div class="block-title">
                           <h3>About <span>Me</span></h3>
                         </div>
-                        <p>Hello! I’m Alex Smith. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fermentum ullamcorper sem, at placerat dolor volutpat ac. Duis nulla enim, condimentum nec ultricies.</p>
+                        <p>Hello! I’m Suraj Pipariya. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fermentum ullamcorper sem, at placerat dolor volutpat ac. Duis nulla enim, condimentum nec ultricies.</p>
                       </div>
                       <div class="download-resume">
                         <a href="#" class="btn btn-secondary">Download Resume</a>
@@ -1030,7 +1030,7 @@
                           <i class="fa fa-envelope"></i>
                         </div>
                         <div class="ci-text">
-                          <h5>alexsmith@example.com</h5>
+                          <h5>SurajPipariya@example.com</h5>
                         </div>
                       </div>
                       <div class="contact-info-block">
@@ -1103,29 +1103,10 @@
       <!-- /Main Content -->
     </div>
     <footer>
-      <div class="copyrights">© 2017 All rights reserved. Material template by LMPixels</div>
+      <div class="copyrights">© 2022 All rights reserved. Suraj Pipariya</div>
     </footer>
 
-    <!-- Demo Color changer -->
-    <a id="lm_demo_panel_switcher" class="lm-demo-panel-switcher right"><i class="fa fa-gear"></i></a>
-    <div id="lm_demo_panel" class="lm-demo-panel right panel-color-red active">
-      <div class="demo-panel-title">Main Color</div>
-      <div id="main_color" class="demo-panel-options">
-        <a data-id="deep-purple"><div class="preview color-1">&nbsp;</div></a>
-        <a data-id="red"><div class="preview color-2">&nbsp;</div></a>
-        <a data-id="blue"><div class="preview color-3">&nbsp;</div></a>
-        <a data-id="deep-orange"><div class="preview color-4">&nbsp;</div></a>
-        <a data-id="green" class="current-main-color"><div class="preview color-5">&nbsp;</div></a>
-        <a data-id="light-blue"><div class="preview color-6">&nbsp;</div></a>
-        <a data-id="pink"><div class="preview color-7">&nbsp;</div></a>
-        <a data-id="purple"><div class="preview color-8">&nbsp;</div></a>
-        <a data-id="orange"><div class="preview color-9">&nbsp;</div></a>
-        <a data-id="amber"><div class="preview color-10">&nbsp;</div></a>
-        <a data-id="lime"><div class="preview color-11">&nbsp;</div></a>
-        <a data-id="teal"><div class="preview color-12">&nbsp;</div></a>
-      </div>
-    </div>
-    <!-- /Demo Color changer -->
+     
 
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/pages-switcher.js"></script>
