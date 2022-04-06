@@ -52,7 +52,7 @@
             <!-- Main menu -->
             <ul id="nav" class="site-main-menu">
               <li>
-                <a class="pt-trigger" href="#home">Home</a><!-- href value = data-id without # of .pt-page. -->
+                <a class="pt-trigger" href="#home">Profile</a><!-- href value = data-id without # of .pt-page. -->
               </li>
               <li>
                 <a class="pt-trigger" href="#resume">Resume</a>
@@ -63,12 +63,7 @@
               <li>
                 <a class="pt-trigger" href="#portfolio">Portfolio</a>
               </li>
-              <li>
-                <a class="pt-trigger" href="#blog">Blog</a>
-              </li>
-              <li>
-                <a class="pt-trigger" href="#contact">Contact</a>
-              </li>
+               
             </ul>
             <!-- /Main menu -->
           </div>
@@ -112,18 +107,18 @@
                         <h1>Suraj Pipariya</h1>
                         <div class="owl-carousel text-rotation">                                    
                           <div class="item">
-                            <div class="sp-subtitle">Web Designer</div>
+                            <div class="sp-subtitle">Data Analyst</div>
                           </div>
-                          <div class="item">
+                         <!-- <div class="item">
                             <div class="sp-subtitle">Frontend-developer</div>
-                          </div>
+                          </div>-->
                         </div>
                       </div>
-
+ 
                       <div class="social-links">
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/surajpipariya/"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://www.facebook.com/suraj.pipariya/"><i class="fa fa-facebook"></i></a>
+                        <a href="https://www.instagram.com/suraj_pipariya/"><i class="fa fa-instagram"></i></a>
                       </div>
                     </div>
                   </div>
@@ -137,21 +132,21 @@
                         <div class="block-title">
                           <h3>About <span>Me</span></h3>
                         </div>
-                        <p>Hello! I’m Suraj Pipariya. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fermentum ullamcorper sem, at placerat dolor volutpat ac. Duis nulla enim, condimentum nec ultricies.</p>
+                        <p>Hello! I’m Suraj Pipariya. Highly motivated and result-oriented individual with hands-on experience in data analysis. Proficiency in grasping new technical concepts quickly and productively utilizing them. Versatile, quick-learner, willing to embrace new challenges.</p>
                       </div>
-                      <div class="download-resume">
+                      <!--  <div class="download-resume">
                         <a href="#" class="btn btn-secondary">Download Resume</a>
-                      </div>
+                      </div>-->
                     </div>
 
                     <div class="col-sm-6 col-md-6 col-lg-6">
                       <ul class="info-list">
-                        <li><span class="title">Age</span><span class="value">29</span></li>
-                        <li><span class="title">Residence</span><span class="value">USA</span></li>
-                        <li><span class="title">Address</span><span class="value">Los Angeles, USA</span></li>
-                        <li><span class="title">e-mail</span><span class="value"><a href="mailto:email@example.com">email@example.com</a></span></li>
-                        <li><span class="title">Phone</span><span class="value">+0123 123 456 789</span></li>
-                        <li><span class="title">Freelance</span><span class="value available">Available</span></li>
+                        <!--<li><span class="title">Age</span><span class="value">29</span></li>-->
+                        <!--<li><span class="title">Residence</span><span class="value">USA</span></li>-->
+                        <li><span class="title">Email</span><span class="value"><a href="mailto:surajpipariya@gmail.com">surajpipariya@gmail.com</a></span></li>
+                        <li><span class="title">Phone</span><span class="value">+91 9420021118</span></li>
+                        <li><span class="title">Location</span><span class="value">Pune, Maharashtra, India</span></li>
+                        <!--<li><span class="title">Freelance</span><span class="value available">Available</span></li>-->
                       </ul>
                     </div>
 
