@@ -114,9 +114,9 @@
                       </div>
  
                       <div class="social-links">
-                        <a href="https://www.linkedin.com/in/surajpipariya/"><i class="fa fa-linkedin"></i></a>
-                        <a href="https://www.facebook.com/suraj.pipariya/"><i class="fa fa-facebook"></i></a>
-                        <a href="https://www.instagram.com/suraj_pipariya/"><i class="fa fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/surajpipariya/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://www.facebook.com/suraj.pipariya/" target="_blank"><i class="fa fa-facebook"></i></a>
+                        <a href="https://www.instagram.com/suraj_pipariya/" target="_blank"><i class="fa fa-instagram"></i></a>
                       </div>
                     </div>
                   </div>
@@ -311,13 +311,13 @@
 
 
             <!-- Services Subpage -->
-            <section class="pt-page" data-id="services">
+           <!-- <section class="pt-page" data-id="services">
               <div class="section-inner custom-page-content">
                 <div class="page-header color-1">
                   <h2>Services</h2>
                 </div>
                 <div class="page-content">
-                  <!-- My Services -->
+    
                   <div class="row">
                     <div class="col-sm-12 col-md-12">
                       <div class="block-title">
@@ -328,7 +328,7 @@
                     <div class="col-sm-6 col-md-3">
                       <div class="service-block"> 
                         <div class="service-info">
-                          <!--<i class="service-icon fa fa-shopping-cart"></i>-->
+                         <i class="service-icon fa fa-shopping-cart"></i>
                           <div class="service-image">
                             <img src="images/service/web_design_icon.png" alt="Responsive Design" class="mCS_img_loaded">
                           </div>
@@ -374,9 +374,9 @@
                       </div>
                     </div>
                   </div>
-                  <!-- End of My Services -->
+                   End of My Services -->
 
-                  <!-- Clients -->
+                  <!-- Clients 
                   <div class="row">
                     <div class="col-sm-12 col-md-12">
                       <div class="block-title">
@@ -514,7 +514,7 @@
                   </div>
                   <!-- End of Tesimonials -->
 
-                  <!-- Pricing -->
+                  <!-- Pricing 
                   <div class="row">
                     <div class="col-sm-12 col-md-12">
                       <div class="block-title">
