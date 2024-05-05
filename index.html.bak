@@ -130,7 +130,11 @@
                         <div class="block-title">
                           <h3>About <span>Me</span></h3>
                         </div>
-                        <p>Hello! I’m Suraj Pipariya. Highly motivated and result-oriented individual with hands-on experience in data analysis. Proficiency in grasping new technical concepts quickly and productively utilizing them. Versatile, quick-learner, willing to embrace new challenges.</p>
+                        <p>Hello! I’m Suraj Pipariya. Solutions - oriented Data & Power BI Analyst with proven expertise analyzing various
+large datasets for the e-commerce, healthcare and financial industries. Proficiency in
+grasping new technical concepts quickly and productively utilizing them. Versatile,
+quick-learner, willing to embrace new challenges.
+</p>
                       </div>
                       <div class="download-resume">
                         <a href="Suraj Pipariya - Data Analyst.pdf" target="_blank" class="btn btn-secondary">Download Resume</a>
@@ -246,12 +250,12 @@
                         </div>
 
                         <div class="skills-info">
-                          <h4>Tableau</h4>                               
+                          <h4>Power BI</h4>                               
                           <div class="skill-container">
                             <div class="skill-percentage skill-1"></div>
                           </div>
 
-                          <h4>Power BI</h4>
+                          <h4>Tableau</h4>
                           <div class="skill-container">
                             <div class="skill-percentage skill-2"></div>
                           </div>
@@ -284,7 +288,7 @@
 
                           <h4>jQuery</h4>
                           <div class="skill-container">
-                            <div class="skill-percentage skill-6"></div>
+                            <div class="skill-percentage skill-4"></div>
                           </div> 
                         </div>
                         
@@ -345,7 +349,8 @@
 
                       <!-- Portfolio Item 1 -->
                       <figure class="item" data-groups='["all", "media"]'>
-                        <a href="https://app.powerbi.com/view?r=eyJrIjoiMmMxMWViMzUtY2RhMy00YWFiLTllMmMtNGY2MmY2OTRjYWExIiwidCI6IjdjN2RlODc4LTA1MzYtNGE5My1iNzc1LTViMWY5OThhMjM4OSIsImMiOjZ9&pageName=ReportSection550c01fe1e450bfdf89b" target="_blank" title="Sales Beyond Reach">
+                        <a href= "https://app.powerbi.com/view?r=eyJrIjoiZmEyNTVjNjMtMzNiZi00NjgzLWE1YTMtNDIzNjQ1NGVjYjJjIiwidCI6IjFjNDY0NTMxLTZhZDgtNGY5Yy05NmUyLWNkZTg5YjE0ZWRmNiJ9&pageName=ReportSection550c01fe1e450bfdf89b"
+						target="_blank" title="Sales Beyond Reach">
                           <img src="images/portfolio/1.jpg" alt="">
                           <div>
                             <h5 class="name">Power BI Dashboard</h5>
