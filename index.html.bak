@@ -358,7 +358,7 @@
 					  
 					  <!-- Portfolio Item 4 -->
                       <figure class="item" data-groups='["all", "media"]'>
-                        <a href="https://app.powerbi.com/view?r=eyJrIjoiOGQ0NWMxNTgtNzk0Zi00NWIzLWI3OWItYzEyOTI2ZmQ5NGY4IiwidCI6IjdjN2RlODc4LTA1MzYtNGE5My1iNzc1LTViMWY5OThhMjM4OSIsImMiOjZ9&pageName=ReportSection" target="_blank" title="Air Quality Index (AQI) - India">
+                        <a href=	"https://app.powerbi.com/view?r=eyJrIjoiZDVhZWYwMmItOGRhMC00ZWQ4LTliNjQtYjEyMDFlMmI0Yjc4IiwidCI6IjFjNDY0NTMxLTZhZDgtNGY5Yy05NmUyLWNkZTg5YjE0ZWRmNiJ9&pageName=ReportSection" target="_blank" title="Air Quality Index (AQI) - India">
                           <img src="images/portfolio/4.jpg" alt="">
                           <div>
                             <h5 class="name">Power BI Dashboard</h5>
